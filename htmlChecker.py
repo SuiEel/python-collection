@@ -1,9 +1,9 @@
 #  File: htmlChecker.py
 #  Description: Checks the tags of an html page
 #  Student's Name: William Sears
-#  Student's UT EID: wvs92
+#  Student's UT EID: ---
 #  Course Name: CS 313E 
-#  Unique Number: 51325
+#  Unique Number: ---
 #
 #  Date Created: 10/01/2016
 #  Date Last Modified: 10/07/2016
