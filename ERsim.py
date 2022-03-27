@@ -1,9 +1,9 @@
 #  File: ERsim.py
 #  Description: Simulates a treatment queue in an ER
 #  Student's Name: William Sears
-#  Student's UT EID: wvs92
+#  Student's UT EID: ---
 #  Course Name: CS 313E 
-#  Unique Number: 51325
+#  Unique Number: ---
 #
 #  Date Created: 10/09/2016
 #  Date Last Modified: 10/14/2016
