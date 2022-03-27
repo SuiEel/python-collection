@@ -1,9 +1,9 @@
 #  File: LinkedLists.py
 #  Description: Tests methods of a linked list object
 #  Student's Name: William Sears
-#  Student's UT EID: wvs92
+#  Student's UT EID: ---
 #  Course Name: CS 313E 
-#  Unique Number: 51325
+#  Unique Number: ---
 #
 #  Date Created: 10/17/2016
 #  Date Last Modified: 10/21/2016
