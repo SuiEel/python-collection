@@ -1,9 +1,9 @@
 #  File: ExpressionTree.py
 #  Description: Creates a Binary Tree with an infix pattern and solves it
 #  Student's Name: William Sears
-#  Student's UT EID: wvs92
+#  Student's UT EID: ---
 #  Course Name: CS 313E 
-#  Unique Number: 50940
+#  Unique Number: ---
 #
 #  Date Created: 12/01
 #  Date Last Modified: 12/02
