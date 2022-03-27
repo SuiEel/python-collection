@@ -1,9 +1,9 @@
 #  File: Circular.py
 #  Description: Runs through a text and simulates "Hot potato"
 #  Student's Name: William Sears
-#  Student's UT EID: wvs92
+#  Student's UT EID: ---
 #  Course Name: CS 313E 
-#  Unique Number: 51325
+#  Unique Number: ---
 #
 #  Date Created: 10/24/2016
 #  Date Last Modified: 10/28/2016
